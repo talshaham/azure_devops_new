@@ -1,0 +1,15 @@
+/home/tal/Desktop/tal-repo-azure/hello_world/bin/Debug/net8.0/hello_world
+/home/tal/Desktop/tal-repo-azure/hello_world/bin/Debug/net8.0/hello_world.deps.json
+/home/tal/Desktop/tal-repo-azure/hello_world/bin/Debug/net8.0/hello_world.runtimeconfig.json
+/home/tal/Desktop/tal-repo-azure/hello_world/bin/Debug/net8.0/hello_world.dll
+/home/tal/Desktop/tal-repo-azure/hello_world/bin/Debug/net8.0/hello_world.pdb
+/home/tal/Desktop/tal-repo-azure/hello_world/obj/Debug/net8.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/tal/Desktop/tal-repo-azure/hello_world/obj/Debug/net8.0/hello_world.AssemblyInfoInputs.cache
+/home/tal/Desktop/tal-repo-azure/hello_world/obj/Debug/net8.0/hello_world.AssemblyInfo.cs
+/home/tal/Desktop/tal-repo-azure/hello_world/obj/Debug/net8.0/hello_world.csproj.CoreCompileInputs.cache
+/home/tal/Desktop/tal-repo-azure/hello_world/obj/Debug/net8.0/hello_world.sourcelink.json
+/home/tal/Desktop/tal-repo-azure/hello_world/obj/Debug/net8.0/hello_world.dll
+/home/tal/Desktop/tal-repo-azure/hello_world/obj/Debug/net8.0/refint/hello_world.dll
+/home/tal/Desktop/tal-repo-azure/hello_world/obj/Debug/net8.0/hello_world.pdb
+/home/tal/Desktop/tal-repo-azure/hello_world/obj/Debug/net8.0/hello_world.genruntimeconfig.cache
+/home/tal/Desktop/tal-repo-azure/hello_world/obj/Debug/net8.0/ref/hello_world.dll
